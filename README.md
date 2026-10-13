@@ -3,5 +3,5 @@ This repository provides a subset of the training data used in our study. Due to
 This repository provides the following resources for the proposed automated simulation model generation method:
 1、Two trained LLM models.
 2、Training code.
-3、Partial LLM training datasetsg.
-4、YOLO training dataset.
+3、Partial LLM training dataset.
+4、Partial YOLO training dataset.
